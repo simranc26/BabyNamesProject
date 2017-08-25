@@ -1,2 +1,0 @@
-# BabyNamesProject
-By Simran Cellini
